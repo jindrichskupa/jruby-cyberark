@@ -2,7 +2,7 @@
 
 require 'fileutils'
 
-version = '0.0.1'.freeze
+version = '0.0.3'.freeze
 
 FileUtils.mkdir_p( 'lib/jruby-cyberark' )
 File.open( 'lib/jruby-cyberark/version.rb', 'w' ) do |f|

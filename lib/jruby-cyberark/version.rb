@@ -1,4 +1,4 @@
 module JRubyJars
-  VERSION = '0.0.1'
-  MAVEN_VERSION = '0.0.1'
+  VERSION = '0.0.3'
+  MAVEN_VERSION = '0.0.3'
 end
